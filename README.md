@@ -12,7 +12,7 @@
 
 🔗 
 [Source Code](https://github.com/lseanl03/Mines.git) &nbsp;
-[Demo Video](https://youtu.be/226YwFAkP88)
+[Demo Video](https://youtu.be/Dv1tZQMsmbI)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/89e30f0f-e176-4eae-beee-9333143c5759" width="400"/>
@@ -29,7 +29,7 @@
 
 🔗 
 [Source Code](https://github.com/lseanl03/Plinko.git) &nbsp;
-[Demo Video](https://youtu.be/2qwwoFTxoZA)
+[Demo Video](https://youtu.be/JzbJSZKm9oE)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e66d193-5366-4701-a360-e5ea3eee0f22" width="400"/>
@@ -46,7 +46,7 @@
 
 🔗 
 [Source Code](https://github.com/lseanl03/SpaceMan.git) &nbsp;
-[Demo Video](https://youtu.be/SGpzPR8DrfI)
+[Demo Video](https://youtu.be/zDcceSZGIPA)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5d05893-350c-476b-b450-e2fcbf424901" width="400" />
@@ -64,7 +64,7 @@
 
 🔗 
 [Source Code](https://github.com/lseanl03/Hotline.git) &nbsp;
-[Demo Video](https://youtu.be/DeTyPF5iIOE)
+[Demo Video](https://youtu.be/zDcceSZGIPA)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/26a915bf-94b9-48ae-8ad7-f7ee065feebf" width="400" />
