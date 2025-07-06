@@ -13,10 +13,13 @@
 
 🔗 
 [Source Code](https://github.com/lseanl03/Mines.git) &nbsp;
+[Demo Video](https://youtu.be/226YwFAkP88)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e621c09e-de08-430e-8053-b1cd7e341632" width="400" />
-  <img src="https://github.com/user-attachments/assets/210cb93d-026b-465e-aaf9-913b4f30ea15" width="400"/>
+  <img src="https://github.com/user-attachments/assets/89e30f0f-e176-4eae-beee-9333143c5759" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bb066531-4480-40be-90ed-21d97e906c2a" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e5877be2-b49b-4ca6-8a23-1addcde2da68" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f6ff2366-ec6b-4026-bc1b-9550d5576985" width="400"/>
 </p>
 
 ***
@@ -27,10 +30,13 @@
 
 🔗 
 [Source Code](https://github.com/lseanl03/Plinko.git) &nbsp;
+[Demo Video](https://youtu.be/2qwwoFTxoZA)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6446d879-3f2a-4fbe-b6b8-08bfd9fd21a8" width="400" />
-  <img src="https://github.com/user-attachments/assets/eaebd245-03ee-4330-9b81-550597392555" width="400" />
+  <img src="https://github.com/user-attachments/assets/0e66d193-5366-4701-a360-e5ea3eee0f22" width="400"/>
+  <img src="https://github.com/user-attachments/assets/fdd0b47d-4e1a-40f8-94b9-093a07f96f3d" width="400"/>
+  <img src="https://github.com/user-attachments/assets/4c70eb4f-74f3-43e8-8938-65455bf6cc95" width="400"/>
+  <img src="https://github.com/user-attachments/assets/724e87ee-dc5c-4d44-ab13-17cd5d1b8f57" width="400"/>
 </p>
 
 ***
@@ -41,6 +47,7 @@
 
 🔗 
 [Source Code](https://github.com/lseanl03/SpaceMan.git) &nbsp;
+[Demo Video]()
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/124798b7-8151-48b5-8c6f-34bf74b7ceaa" width="400" />
