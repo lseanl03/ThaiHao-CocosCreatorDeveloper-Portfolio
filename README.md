@@ -46,11 +46,14 @@
 
 🔗 
 [Source Code](https://github.com/lseanl03/SpaceMan.git) &nbsp;
-[Demo Video]()
+[Demo Video](https://youtu.be/SGpzPR8DrfI)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/124798b7-8151-48b5-8c6f-34bf74b7ceaa" width="400" />
-  <img src="https://github.com/user-attachments/assets/db129e91-6dbd-4cdb-b1cb-bfa494046418" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b5d05893-350c-476b-b450-e2fcbf424901" width="400" />
+  <img src="https://github.com/user-attachments/assets/4bb87517-701f-40f5-8bf6-5f2475a592d9" width="400" />
+  <img src="https://github.com/user-attachments/assets/6d65b841-6275-4859-bec8-1ec2f5224640" width="400" />
+  <img src="https://github.com/user-attachments/assets/a7d9e9eb-78f5-49ce-81af-08174e3dc709" width="400" />
+  
 </p>
 
 ***
