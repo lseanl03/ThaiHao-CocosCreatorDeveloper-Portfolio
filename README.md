@@ -57,3 +57,21 @@
 </p>
 
 ***
+
+### 🎮 Hotline
+
+🟣 Bet on a card and roll the cards to check your lucky. U can try high risk mode with higher reward
+
+🔗 
+[Source Code](https://github.com/lseanl03/Hotline.git) &nbsp;
+[Demo Video](https://youtu.be/DeTyPF5iIOE)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26a915bf-94b9-48ae-8ad7-f7ee065feebf" width="400" />
+  <img src="https://github.com/user-attachments/assets/f8c90daa-1da7-4e77-8a1e-316d9f92930e" width="400" />
+  <img src="https://github.com/user-attachments/assets/ee0b6282-1663-4c41-a9e9-a333d415f2d3" width="400" />
+  <img src="https://github.com/user-attachments/assets/dbd86636-bf13-4865-aff3-3807868eee85" width="400" />
+  
+</p>
+
+***
